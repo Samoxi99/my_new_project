@@ -1,7 +1,6 @@
 
-# Project Title Löydä oma itsesi
+# Project Title Painting with AI
 
-Joona on parasta
 
 ## Summary
 
