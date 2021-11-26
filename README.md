@@ -1,5 +1,5 @@
 
-# Project Title Painting with AI
+# Painting with AI
 
 
 ## Summary
